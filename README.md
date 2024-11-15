@@ -34,7 +34,6 @@ Results
   Relevance: Most recommended movies are in line with user preferences.
   Example Recommendations:
   If a user likes The Dark Knight, recommendations might include Batman Begins and V for Vendetta.
-[app.pdf](https://github.com/user-attachments/files/17774197/app.pdf)
 
 
   
