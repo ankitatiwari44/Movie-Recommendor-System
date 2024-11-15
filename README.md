@@ -26,15 +26,15 @@ Usage
 
 Recommendation Approach
   This recommendation system uses a content-based filtering approach:
-    #Feature Extraction: Extracts relevant movie information (e.g., genres, keywords, cast, and director) and combines them       into a unified text representation.
-    #Text Vectorization: Transforms the combined text data into vectors using TF-IDF (Term Frequency-Inverse Document             Frequency) to give more weight to unique terms.
-    #Similarity Calculation: Computes similarity between movies using cosine similarity, which measures the angle between         two feature vectors
+    #Feature Extraction: Extracts relevant movie information (e.g., genres, keywords, cast, and director) and combines them into a unified text representation.
+    #Text Vectorization: Transforms the combined text data into vectors using TF-IDF (Term Frequency-Inverse Document Frequency) to give more weight to unique terms.
+    #Similarity Calculation: Computes similarity between movies using cosine similarity, which measures the angle betwee two feature vectors
 Results
   The system's recommendations are evaluated based on user satisfaction
   Relevance: Most recommended movies are in line with user preferences.
   Example Recommendations:
   If a user likes The Dark Knight, recommendations might include Batman Begins and V for Vendetta.
-
+[app.pdf](https://github.com/user-attachments/files/17774197/app.pdf)
 
 
   
