@@ -3,7 +3,7 @@ Overview
       This project is a Content-Based Movie Recommendation System that suggests movies similar to those a user has previously shown interest in. By analyzing movie attributes like genres, keywords, cast, and crew, this system provides personalized recommendations that align with the user's tastes.
       
 Installation
-  1. Clone the repository: git clone https://github.com/ankitatiwrai44/Movie-Recommendor-System.git
+  1. Clone the repository: git clone https://github.com/ankitatiwari44/Movie-Recommendor-System
   2. Add Project directory: cd movie-recommendation
   3. Install required dependencies: pip install -r requirements.txt
      
